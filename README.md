@@ -3,7 +3,13 @@
 To initialize project, run:
 
 ~~~php
-composer install && php artisan initialize && npm run dev
+composer install && npm run dev
+~~~
+
+To create .env file and generate an application key:
+
+~~~php
+php artisan initialize
 ~~~
 
 Edit .env file to use your database, for example: 
