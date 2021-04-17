@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Košík
+Databáza miest
 @endsection
 
 @section('content')

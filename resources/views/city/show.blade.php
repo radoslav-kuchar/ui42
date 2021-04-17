@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Košík
+{{ $city->name }}
 @endsection
 
 @section('content')
